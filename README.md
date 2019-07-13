@@ -28,5 +28,12 @@ If you find our method useful in your research,please consider citing the follow
 3) W. Wang, J. Shen, R. Yang, and F. Porikli, Saliency-aware video object segmentation,IEEE Trans. on Pattern Analysis and Machine Intelligence, 40(1):20-33, 2018
 
 ========================================================================
+Other related projects:
+
+[(CVPR19)](https://github.com/wenguanwang/AGS) Learning Unsupervised Video Object Segmentation through Visual Attention
+
+[(CVPR19 Oral)](https://github.com/wenguanwang/DAVSOD) Shifting More Attention to Video Salient Object Detection
+
+[(CVPR19)](https://github.com/carrierlxk/COSNet) See More, Know More: Unsupervised Video Object Segmentation With Co-Attention Siamese Networks
 
 Any comments, please email:songhongmei@bit.edu.cn, wenguanwang.china@gmail.com
